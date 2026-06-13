@@ -1,5 +1,30 @@
 # Impact of AI Tools on Student's Academic Performance.
-This is an end to end Data Analytics project utilizing MySQL to analyze data and quantify findings if AI has any effecect on Students performance at Okinawa University. The advancement of technology in Artificial Intelligence and Machine Learning tools has found its way into institutions of education around the world. Statistics estimate that 60% of learners around the world use AI Tools as part of daily learning routines. 
+## About the Project
+This is an end to end Data Analytics project primarily utilizing MySQL to analyze data and quantify findings if AI has any effecect on Students performance at Okinawa University. The advancement of technology in Artificial Intelligence and Machine Learning tools has found its way into institutions of education around the world. Statistics estimate that 60% of learners around the world use AI Tools as part of daily learning routines. 
 This project, uses sample data from a hypothetical Okinawa University aims to investigate if indeed use of AI has any effect on students GPA. Using data metrics such as GPA Baseline and GPA Post AI scores, career confidence, majors and the numbers of weekly saved hours, this study seeks to discover if there is any correlationscomparing students' baseline GPA scores (before AI implementation) against their post-AI usage GPA scores.
 The study also seeks to discover performance changes across the student population based on their respective average GPA Scores, and find out is use of AI affect students career confidence score.
-The project also utilizes the power of Microsoft BI for visualizations and reporting.
+
+## Project Objectives
+-
+-
+-
+
+## Outline and Procedure
+
+## Methodology 
+
+## Results and Findings
+-
+-
+-
+
+## Recommendations.
+1.
+2.
+
+## Data Sources.
+
+## Tools Used
+1. MySQL
+2. PowerBI: For data visualizations
+
