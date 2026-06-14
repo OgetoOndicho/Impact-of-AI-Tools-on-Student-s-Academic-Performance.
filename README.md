@@ -33,6 +33,7 @@ This project  followed a three procedural process.
 2.
 
 ## Data Sources.
+- The data was obtained from a secondary source in this case Kaggle Platform: https://www.kaggle.com/datasets/sohaibdevv/ai-and-student-life-2026-the-new-normal
 
 ## Tools Used
 1. MySQL
