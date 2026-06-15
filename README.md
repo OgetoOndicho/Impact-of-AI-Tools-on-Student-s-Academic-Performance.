@@ -14,7 +14,7 @@ The study also seeks to uncover if  performance changes across the student popul
 ## Outline and Procedure.
 This project  followed a three procedural process.
 ### Part 1: Understanding the data
-- Involved accurate schema development using MySQL for databases and table creations, importing of the data accurately, verifications of accurate data records counts with their respective data types corectly in thei places.
+- Involved the process of schema definition. Case example using MySQL for databases and table creations to store the dataset, importing of the data accurately, verifications of accurate data records counts with their respective data types corectly in their places.
 
 ### Part 2: Data Cleaning and Standardizations.
 - This phase ensured that data was thoroughly cleaned for duplicates, missing values and consistency in data types. A clean dataset ensures accurate results findings that truly reflect the intended purpose of the data.
