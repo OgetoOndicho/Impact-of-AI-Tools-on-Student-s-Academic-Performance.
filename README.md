@@ -38,6 +38,6 @@ This project  followed a three procedural process.
 - The data was obtained from a secondary source in this case Kaggle Platform: https://www.kaggle.com/datasets/sohaibdevv/ai-and-student-life-2026-the-new-normal
 
 ## Tools Used
-1. MySQL: For data cleaning, standardization and analysis.
-2. PowerBI: For data visualizations.
+1. MySQL: For writing queries to  enable data cleaning, standardization and analysis.
+2. PowerBI: For reporting through data visualizations.
 
