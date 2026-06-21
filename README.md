@@ -3,7 +3,7 @@
 This is an end to end Data Analytics project primarily utilizing MySQL to analyze data and quantify findings if use of AI tools has any effect on Students performance at Brights Excellence  Academy.
 The advancement of technology in Artificial Intelligence and Machine Learning tools has found its way into learning institutions around the world. Statistics estimate that approximately 54% of students use AI on a daily or weekly basis. Overally, approximately 86% of students use multiple AI tools worldwide according to https://www.demandsage.com/ai-in-education-statistics/ report.
 This project, uses sample data from a hypothetical institution (Brights Excellence Academy) aims to uncover if indeed use of AI tools has any effect on students Grade Point Average. Using data metrics such as GPA Baseline and GPA Post AI scores, career confidence, couse majors and the numbers of weekly saved hours, this project seeks to investigate student's performance post AI Tools use records any significant improvements on comparison with their baseline GPA scores (before AI Tools use).
-The study also seeks to uncover if  performance changes across the student population based on their respective average GPA Scores, and find out if use of AI affect students career confidence score.
+The study also seeks to uncover if performance changes across the student population based on their respective average GPA Scores, and find out if use of AI affect students career confidence score.
 
 ## Project Objectives.
 1. To investigate if use of Atificial Intelligeence tools affects the students average Grade Average Points Score.
@@ -32,8 +32,7 @@ This project  followed a three procedural process.
 -
 
 ## Recommendations.
-1.
-2.
+
 
 ## Data Sources.
 - The data was obtained from a secondary source in this case Kaggle Platform: https://www.kaggle.com/datasets/sohaibdevv/ai-and-student-life-2026-the-new-normal
