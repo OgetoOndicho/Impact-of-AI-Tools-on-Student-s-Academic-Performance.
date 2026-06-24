@@ -23,7 +23,7 @@ This project  followed a three procedural process.
 - This was the final phase of the data analysis process. Involved writing of SQL Scripts to answe key business questions, uncover insights to facilitate true data analysis reporting on the predefined Project Objectives.
 
 
-## Data Analysis findings sample.
+## Sample Questions for Data Analysis of the Project.
 Q1. Show all records for students majoring in either Software Engineering, Biology and Fine Arts?
 ```sql
 SELECT * FROM students_data
