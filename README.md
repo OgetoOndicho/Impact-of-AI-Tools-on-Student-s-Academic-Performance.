@@ -6,8 +6,8 @@ This project, uses sample data from a hypothetical institution (Brights Excellen
 The study also seeks to uncover if performance changes across the student population based on their respective average GPA Scores, and find out if use of AI affect students career confidence score.
 
 ## Project Objectives.
-1. To investigate if use of Atificial Intelligeence tools affects the students average Grade Average Points Score.
-2. To investigate if truly use of Artificial Intelligence tools helps boost a students overall career confidence score.
+1. To investigate if use of Atificial Intelligeence tools affects the student's overall Grade Average Points Score.
+2. To investigate if the use of Artificial Intelligence tools boosts  a students career confidence score.
 3. To investgate which ae the most preferred Artificial Intelligence Tools and which of the AI Tools is associated with the highest scores as used by students at Brights Excellence Academy.
 4. To determine under which main uses cases are AI Tools mostly peferred by students t Brights Excellence Academy.
 
@@ -23,15 +23,38 @@ This project  followed a three procedural process.
 - This was the final phase of the data analysis process. Involved writing of SQL Scripts to answe key business questions, uncover insights to facilitate true data analysis reporting on the predefined Project Objectives.
 
 
-## Results and Findings,
--
--
--
--
--
--
+## Data Analysis findings sample.
+Q1. Show all records for students majoring in either Software Engineering, Biology and Fine Arts?
+```sql
+SELECT * FROM students_data
+WHERE Major = 'Software Engineering'
+OR Major ='Biology'
+OR Major = 'Fine Arts';
+```
 
-## Recommendations.
+Q2. Find the most popular Primary_AI_Tool used by students
+```sql
+SELECT Primary_AI_Tool, COUNT(*) FROM students_data
+GROUP BY Primary_AI_Tool;
+```
+Out the 4 Primary AI Tools, Github Copilot is the most used with a total of 311 students from Brights Excellence Academy followed closely by Gemini Pro and Perplexity.
+
+Q3. Which are some of the main use cases of AI Tools by Students?
+```sql
+SELECT DISTINCT Main_Usage_Case, COUNT(*)
+FROM students_data
+GROUP BY Main_Usage_Case;
+```
+A total of 384 students at Brights Excellence Academy used AI Tools majorly for examination preparations.
+
+Q4. Find maximum task_frequency_daily for each primary_AI_tool.
+```sql
+SELECT Primary_AI_Tool, MAX(Task_Frequency_Daily) AS Max_freq_tool
+FROM students_data
+GROUP BY Primary_AI_Tool;
+```
+Each of the 4 AI Tools had a maximum daily frequency use cases of 10.
+
 
 
 ## Data Sources.
