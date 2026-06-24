@@ -10,6 +10,7 @@ The study also seeks to uncover if performance changes across the student popula
 2. To investigate if the use of Artificial Intelligence tools boosts  a students career confidence score.
 3. To investgate which ae the most preferred Artificial Intelligence Tools and which of the AI Tools is associated with the highest scores as used by students at Brights Excellence Academy.
 4. To determine under which main uses cases are AI Tools mostly peferred by students t Brights Excellence Academy.
+5. To investigate any arising Ethic concerns in the school's Major departments on the use cases of AI Tools by Students.
 
 ## Outline and Procedure.
 This project  followed a three procedural process.
